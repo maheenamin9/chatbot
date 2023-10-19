@@ -1,0 +1,115 @@
+{
+  "0": {
+    "title": "Welcome to chatbot",
+    "optionList": [
+      {
+        "option": "General Information",
+        "nextMsgId": 1
+      },
+      {
+        "option": "Organizational Structure",
+        "nextMsgId": 2
+      },
+      {
+        "option": "HR Policies",
+        "nextMsgId": 3
+      },
+      {
+        "option": "Company offered Perks and Benefits",
+        "nextMsgId": 4
+      }
+    ]
+  },
+  "1": {
+    "title": "",
+    "optionList": [
+      {
+        "option": "Company Profile",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Introduction to Nextbridge",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Locations",
+        "nextMsgId": 0
+      }
+    ]
+  },
+  "2": {
+    "title": "",
+    "optionList": [
+      {
+        "option": "Technical Wing",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Corporate Wing",
+        "nextMsgId": 0
+      }
+    ]
+  },
+  "3": {
+    "title": "",
+    "optionList": [
+      {
+        "option": "Work Schedule Policy",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Leave Policy",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Smoking Policy",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Dress Code",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Harrasment Policy",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Remote Work Policy",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Separation from the Company",
+        "nextMsgId": 0
+      }
+    ]
+  },
+  "4": {
+    "title": "",
+    "optionList": [
+      {
+        "option": "Medical Benefits",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Employees Old-Age Benefit",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Annual Increment",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Advance Salary",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Travel Allowance",
+        "nextMsgId": 0
+      },
+      {
+        "option": "Client's Bonus",
+        "nextMsgId": 0
+      }
+    ]
+  }
+}
